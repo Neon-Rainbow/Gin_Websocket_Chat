@@ -1,9 +1,6 @@
-### 项目描述
-
-[English Version](./README.md)
-
-## 项目名称
+# 项目名称
 Gin_Websocket_Chat
+[English Version](./README.md)
 
 ## 项目概述
 这是一个基于Gin框架、Gorm ORM、MySQL数据库和WebSocket技术的在线聊天后端系统。该系统支持用户实时聊天，提供稳定、高效的消息传输服务，适合用于各种在线聊天应用。

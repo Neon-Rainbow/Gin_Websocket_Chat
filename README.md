@@ -1,12 +1,6 @@
-Sure, here is the translated Markdown document:
-
-### Project Description
-
-[中文版](./README_zh.md)
-
-## Project Name
+# Project Name
 Gin_Websocket_Chat
-
+[中文版](./README_zh.md)
 ## Project Overview
 This is an online chat backend system based on the Gin framework, Gorm ORM, MySQL database, and WebSocket technology. The system supports real-time chat for users, providing stable and efficient message transmission services, suitable for various online chat applications.
 The project is based on [gin-chat-demo](https://github.com/CocaineCong/gin-chat-demo) and has been modified.
