@@ -2,3 +2,5 @@ config.json
 .idea
 .DS_Store
 bin
+/pkg/mod
+/pkg/sumdb
